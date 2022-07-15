@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj": {}
+    "D:\\GitHub\\ConsoleApp_Ms_Build-master\\UnitTestProject\\UnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+    "D:\\GitHub\\ConsoleApp_Ms_Build-master\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\k\\.nuget\\packages\\",
-        "outputPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\obj\\",
+        "projectPath": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\i\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -49,8 +51,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
             }
           ],
           "frameworkReferences": {
@@ -58,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj": {
+    "D:\\GitHub\\ConsoleApp_Ms_Build-master\\UnitTestProject\\UnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
+        "projectUniqueName": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\UnitTestProject\\UnitTestProject.csproj",
         "projectName": "UnitTestProject",
-        "projectPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
-        "packagesPath": "C:\\Users\\k\\.nuget\\packages\\",
-        "outputPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\obj\\",
+        "projectPath": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\UnitTestProject\\UnitTestProject.csproj",
+        "packagesPath": "C:\\Users\\i\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\UnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,9 +86,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
-                "projectPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
+              "D:\\GitHub\\ConsoleApp_Ms_Build-master\\ConsoleApp\\ConsoleApp.csproj": {
+                "projectPath": "D:\\GitHub\\ConsoleApp_Ms_Build-master\\ConsoleApp\\ConsoleApp.csproj"
               }
             }
           }
@@ -99,6 +102,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -127,18 +131,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

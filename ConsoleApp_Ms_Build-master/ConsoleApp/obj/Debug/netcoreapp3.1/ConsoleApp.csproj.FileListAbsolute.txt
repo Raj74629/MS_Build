@@ -11,3 +11,17 @@ C:\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\Console
 C:\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
 C:\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
 C:\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\GitHub\ConsoleApp_Ms_Build-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
